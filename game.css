@@ -1,0 +1,57 @@
+body
+{
+    background-color:lemonchiffon;
+    
+}
+
+#word{
+    width: 559px;
+}
+#word1{
+    width: 559px;
+}
+
+h1{
+    color:lightseagreen;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h3{
+    font-family:chalkboard;
+   font-weight: bold;
+}
+
+
+label{
+    font-family:chalkboard;
+   font-weight: bold;
+   font-size: 20px;
+
+}
+	.login_div1 , .login_div2
+	{
+		background:lightsalmon;
+		padding: 15px;
+		float: none;
+		border-radius: 15px;
+	}
+
+    #player1_name , #player2_name
+{
+	display: inline-block;
+    font-family: chalkboard;
+    color: black;
+	
+}
+
+#output{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-top: 10px solid lightsalmon;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+
